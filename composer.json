@@ -1,0 +1,20 @@
+{
+    "name": "romach/tg",
+    "authors": [
+        {
+            "name": "romach3",
+            "email": "romach3@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/danog/phpseclib"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "danog/madelineproto":"dev-master"
+    }
+}
